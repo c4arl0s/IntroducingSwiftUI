@@ -6,7 +6,7 @@
 <p>
 
 1. [x] [Creating and Combining Views](https://github.com/c4arl0s/CreatingAndCombiningViews#creating-and-combining-views---content)
-2. [ ] [Building List and Navigation](https://github.com/c4arl0s/BuildingListAndNavigation#building-list-and-navigation---content)
+2. [x] [Building List and Navigation](https://github.com/c4arl0s/BuildingListAndNavigation#building-list-and-navigation---content)
 3. [ ] [handling User Input](https://github.com/c4arl0s/HandlingUserInput#handling-user-input---content)
 
 </p>

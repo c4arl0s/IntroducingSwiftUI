@@ -1,0 +1,30 @@
+[submodule "CreatingAndCombiningViews"]
+	path = CreatingAndCombiningViews
+	url = git@github.com:c4arl0s/CreatingAndCombiningViews.git
+[submodule "BuildingListAndNavigation"]
+	path = BuildingListAndNavigation
+	url = git@github.com:c4arl0s/BuildingListAndNavigation.git
+[submodule "HandlingUserInput"]
+	path = HandlingUserInput
+	url = git@github.com:c4arl0s/HandlingUserInput.git
+[submodule "DrawingPathsAndShapes"]
+	path = DrawingPathsAndShapes
+	url = git@github.com:c4arl0s/DrawingPathsAndShapes.git
+[submodule "AnimatingViewsAndTransitions"]
+	path = AnimatingViewsAndTransitions
+	url = git@github.com:c4arl0s/AnimatingViewsAndTransitions.git
+[submodule "ComposingComplexInterfaces"]
+	path = ComposingComplexInterfaces
+	url = git@github.com:c4arl0s/ComposingComplexInterfaces.git
+[submodule "WorkingWithUIControls"]
+	path = WorkingWithUIControls
+	url = git@github.com:c4arl0s/WorkingWithUIControls.git
+[submodule "InterfacingWithUIKit"]
+	path = InterfacingWithUIKit
+	url = git@github.com:c4arl0s/InterfacingWithUIKit.git
+[submodule "CreatingAWatchOSApp"]
+	path = CreatingAWatchOSApp
+	url = git@github.com:c4arl0s/CreatingAWatchOSApp.git
+[submodule "CreatingAmacOSApp"]
+	path = CreatingAmacOSApp
+	url = git@github.com:c4arl0s/CreatingAmacOSApp.git
