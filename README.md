@@ -6,6 +6,35 @@ In order to update an existing Git submodule execute (You migh need permissions 
  git submodule update --remote --merge
 ```
 
+# Using AI to understand project:
+
+### Describe briefly how to understand SwuifUI paradigm programming language
+
+SwiftUI is a declarative framework for building user interfaces on Apple platforms.Instead of describing step-by-step how the UI should change (imperative), you declare what the UI should look like for a given state. When the state changes, SwiftUI automatically updates the UI to match.
+
+Key concepts:
+- **Declarative Syntax**: You describe the UI by declaring views and their relationships, not by writing code to update them manually.
+- **State-driven**: The UI is a function of your app’s state. When the state changes, the UI updates automatically.
+- **Composable Views**: Complex interfaces are built by combining small, reusable view components.
+- **Reactive**: Uses property wrappers like @State, @Binding, and @ObservedObject to react to data changes.
+
+Example:
+
+```swift
+@State private var isOn = false
+
+var body: some View {
+    Toggle("Enable Feature", isOn: $isOn)
+    if isOn {
+        Text("Feature is enabled!")
+    }
+}
+```
+
+Summary:
+
+SwiftUI is about declaring what you want the UI to be for a given state, letting the framework handle the updates, and composing interfaces from small, reusable pieces. This leads to simpler, more maintainable code compared to traditional imperative UI frameworks.
+
 # 1. [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#go-back-to-overview)
 
 1. [x] [Creating and Combining Views](https://github.com/c4arl0s/CreatingAndCombiningViews#creating-and-combining-views---content)
